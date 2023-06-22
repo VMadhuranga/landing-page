@@ -142,3 +142,52 @@ img {
 .body-2 .quote-container {
     width: 800px;
 }
+
+/* ---------------------------------------------------- */
+.body-3 {
+    height: 350px;
+    display: flex;
+    align-items: center;
+}
+
+.body-3 .action {
+    height: 150px;
+    border-radius: 8px;
+    background-color: #3882f6;
+    padding: 0 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.body-3 h3 {
+    font-size: 25px;
+    color: #f9faf8;
+    font-weight: bolder;
+}
+
+.body-3 p {
+    color: #f9faf8;
+    font-size: 18px;
+}
+
+.body-3 button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-size: 18px;
+    font-weight: bolder;
+    border: 3px solid #f9faf8;
+    border-radius: 5px;
+    padding: 5px 27px;
+}
+
+/* ---------------------------------------------------- */
+.footer {
+    height: 100px;
+    background-color: #1f2937;
+    color: #f9faf8;
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
